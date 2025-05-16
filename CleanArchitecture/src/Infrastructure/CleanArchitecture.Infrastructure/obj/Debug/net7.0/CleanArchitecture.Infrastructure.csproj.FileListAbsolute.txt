@@ -1,0 +1,17 @@
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/bin/Debug/net7.0/CleanArchitecture.Infrastructure.deps.json
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/bin/Debug/net7.0/CleanArchitecture.Infrastructure.dll
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/bin/Debug/net7.0/CleanArchitecture.Infrastructure.pdb
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/bin/Debug/net7.0/CleanArchitecture.Application.dll
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/bin/Debug/net7.0/CleanArchitecture.Domain.dll
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/bin/Debug/net7.0/CleanArchitecture.Application.pdb
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/bin/Debug/net7.0/CleanArchitecture.Domain.pdb
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.AssemblyInfo.cs
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.csproj.CopyComplete
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.dll
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/obj/Debug/net7.0/refint/CleanArchitecture.Infrastructure.dll
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.pdb
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Infrastructure/obj/Debug/net7.0/ref/CleanArchitecture.Infrastructure.dll

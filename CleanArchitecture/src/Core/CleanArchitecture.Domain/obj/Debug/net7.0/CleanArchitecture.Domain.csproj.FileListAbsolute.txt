@@ -1,0 +1,11 @@
+/home/ubuntu/CleanArchitecture/src/Core/CleanArchitecture.Domain/bin/Debug/net7.0/CleanArchitecture.Domain.deps.json
+/home/ubuntu/CleanArchitecture/src/Core/CleanArchitecture.Domain/bin/Debug/net7.0/CleanArchitecture.Domain.dll
+/home/ubuntu/CleanArchitecture/src/Core/CleanArchitecture.Domain/bin/Debug/net7.0/CleanArchitecture.Domain.pdb
+/home/ubuntu/CleanArchitecture/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/CleanArchitecture/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.AssemblyInfoInputs.cache
+/home/ubuntu/CleanArchitecture/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.AssemblyInfo.cs
+/home/ubuntu/CleanArchitecture/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+/home/ubuntu/CleanArchitecture/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.dll
+/home/ubuntu/CleanArchitecture/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/refint/CleanArchitecture.Domain.dll
+/home/ubuntu/CleanArchitecture/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.pdb
+/home/ubuntu/CleanArchitecture/src/Core/CleanArchitecture.Domain/obj/Debug/net7.0/ref/CleanArchitecture.Domain.dll

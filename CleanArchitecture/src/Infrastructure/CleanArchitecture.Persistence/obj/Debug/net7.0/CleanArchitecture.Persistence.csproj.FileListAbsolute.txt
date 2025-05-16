@@ -1,0 +1,17 @@
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/bin/Debug/net7.0/CleanArchitecture.Persistence.deps.json
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/bin/Debug/net7.0/CleanArchitecture.Persistence.dll
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/bin/Debug/net7.0/CleanArchitecture.Persistence.pdb
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/bin/Debug/net7.0/CleanArchitecture.Application.dll
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/bin/Debug/net7.0/CleanArchitecture.Domain.dll
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/bin/Debug/net7.0/CleanArchitecture.Application.pdb
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/bin/Debug/net7.0/CleanArchitecture.Domain.pdb
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.csproj.AssemblyReference.cache
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.AssemblyInfoInputs.cache
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.AssemblyInfo.cs
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.csproj.CoreCompileInputs.cache
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.csproj.CopyComplete
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.dll
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/obj/Debug/net7.0/refint/CleanArchitecture.Persistence.dll
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/obj/Debug/net7.0/CleanArchitecture.Persistence.pdb
+/home/ubuntu/CleanArchitecture/src/Infrastructure/CleanArchitecture.Persistence/obj/Debug/net7.0/ref/CleanArchitecture.Persistence.dll
